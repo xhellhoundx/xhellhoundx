@@ -31,7 +31,7 @@ Mi transición a la ciberseguridad está basado en entender código para ataque,
 
 Mi *blog* personal donde publico artículos, reportes de inteligencia y resolución (**WriteUps**) de máquinas/retos de **TryHackMe**
 
-#### [Find Commands](...)
+#### [Find Commands](https://github.com/xhellhoundx/find_command.git)
 
 Una herramienta de la Shell para buscar comandos, herramientas de ciberseguridad y ayudas en un índice
 
