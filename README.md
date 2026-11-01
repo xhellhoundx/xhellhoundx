@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/banner-yt-2.png" style="border-radius: 20px">
+    <img src="./assets/banner-yt.png" style="border-radius: 20px">
 </div>
 
 <br><br>
