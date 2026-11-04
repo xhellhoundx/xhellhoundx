@@ -27,9 +27,9 @@ Mi transición a la ciberseguridad está basado en entender código para ataque,
 
 ### 🚀 Proyectos destacados
 
-#### [Blog Personal](...)
+#### [Portfolio](https://github.com/xhellhoundx/xhellhoundx.io)
 
-Mi *blog* personal donde publico artículos, reportes de inteligencia y resolución (**WriteUps**) de máquinas/retos de **TryHackMe**
+Mi *Portfolio* donde publico artículos, reportes de inteligencia y resolución (**WriteUps**) de máquinas/retos de **TryHackMe**
 
 #### [Find Commands](https://github.com/xhellhoundx/find_command.git)
 
@@ -43,11 +43,29 @@ Una herramienta de la Shell para buscar comandos, herramientas de ciberseguridad
 
 ### 💻 Technology Stack
 
-| Category | Technology |
-|:---|:---|
-| **Desarrollo** | Node.js, Express, Python, PHP (*Contexto de seguridad*) |
-| **Seguridad** | Parrot-Security, Debian, Pentesting Wargames, CTFs |
-| **Infraestructura** | Docker, MySQL, MongoDB, SQLite, Git |
+#### Desarrollo
+![Bash](https://img.shields.io/badge/Bash-282828?style=flat&logo=gnubash&logoColor=4EAA25&labelColor=282828&color=282828)
+![Python](https://img.shields.io/badge/Python-282828?style=flat&logo=python&logoColor=3776AB&labelColor=282828&color=282828)
+![NodeJS](https://img.shields.io/badge/Node.js-282828?style=flat&logo=nodedotjs&logoColor=5FA04E&labelColor=282828&color=282828)
+![PHP](https://img.shields.io/badge/PHP%20(Security%20Context)-282828?style=flat&logo=php&logoColor=777BB4&labelColor=282828&color=282828)
+
+<br>
+
+#### Seguridad
+![Debian](https://img.shields.io/badge/Debian-282828?style=flat&logo=debian&logoColor=A81D33&labelColor=282828&color=282828)
+![Parrot Security](https://img.shields.io/badge/Parrot%20Security-282828?style=flat&logo=parrotsecurity&logoColor=15E0ED&labelColor=282828&color=282828)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-282828?style=flat&logo=tryhackme&logoColor=212C42&labelColor=A81D33&color=282828)
+![Over The Wire](https://img.shields.io/badge/Over%20The%20Wire-333333?style=flat)
+![Root-Me](https://img.shields.io/badge/RootMe-282828?style=flat&logo=rootme&logoColor=000000&labelColor=E7E7E7&color=282828)
+
+<br>
+
+#### Infraestructura
+![Git](https://img.shields.io/badge/Git-282828?style=flat&logo=git&logoColor=F03C2E&labelColor=282828&color=282828)
+![Docker](https://img.shields.io/badge/Docker-282828?style=flat&logo=docker&logoColor=2496ED&labelColor=282828&color=282828)
+![MySQL](https://img.shields.io/badge/MySQL-282828?style=flat&logo=mysql&logoColor=4479A1&labelColor=282828&color=282828)
+![MongoDB](https://img.shields.io/badge/MongoDB-282828?style=flat&logo=mongodb&logoColor=47A248&labelColor=282828&color=282828)
+![MongoDB](https://img.shields.io/badge/SQLite-282828?style=flat&logo=sqlite&logoColor=003B57&labelColor=E7E7E7&color=282828)
 
 <br><br>
 
@@ -58,6 +76,8 @@ Una herramienta de la Shell para buscar comandos, herramientas de ciberseguridad
 </div>
 
 <br><br>
+
+---
 
 <div align="center">
 
